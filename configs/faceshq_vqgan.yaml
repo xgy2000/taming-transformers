@@ -34,9 +34,9 @@ data:
       target: taming.data.faceshq.FFHQTrain
       params:
         size: 256
-        crop_size: 256
+        
     validation:
       target: taming.data.faceshq.FFHQValidation
       params:
         size: 256
-        crop_size: 256
+        
